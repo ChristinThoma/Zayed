@@ -39,10 +39,9 @@ export const Contact = (props) => {
           <div className='col-md-8'>
             <div className='row'>
               <div className='section-title'>
-                <h2>Get In Touch</h2>
+                <h2>Kontaktieren Sie uns!</h2>
                 <p>
-                  Please fill out the form below to send us an email and we will
-                  get back to you as soon as possible.
+                  Füllen Sie das Kontaktformular aus und wir kontaktieren Sie schnellstmöglich oder rufen Sie uns direkt an.
                 </p>
               </div>
               <form name='sentMessage' validate onSubmit={handleSubmit}>
